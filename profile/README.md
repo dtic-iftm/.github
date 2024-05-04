@@ -1,15 +1,16 @@
 ## 📦 Repositórios DTIC-IFTM
 
-# 🖥️ VirtualIF
+# <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
 
 | Repositório |  |  |
 | ----------- | ----------- | ----------- |
 | Autenticação | [APP](https://www.example.com) | [API](https://www.example.com) |
-| Integração com Moodle |  | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) |
+| Integração com Moodle |  [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | [Biblioteca](https://github.com/dtic-iftm/ava-api-library) | 
 | Módulo COPESE | [APP](https://www.example.com) |
 | Biblioteca de componentes de interface | [Repo](https://www.example.com) | [Actions](https://www.example.com) |
 
-# 📖 Moodle
+
+# <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
 | Câmpus |  |  
 | ----------- | ----------- |
 | Uberaba | [Repo](https://www.example.com) | 
