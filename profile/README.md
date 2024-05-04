@@ -1,7 +1,11 @@
 ## 📦 Repositórios DTIC-IFTM
+Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
+
+> 🧙 Lembre-se de atualizar essa página sempre que adicionar novos repositórios
+
+</br>
 
 # <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
-
 | Repositório | ⚙️ | ☁️ |  |
 | ----------- | ----------- | ----------- |  ----------- |
 | Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) |  | 
@@ -9,6 +13,7 @@
 | Módulo COPESE | [APP]() | | |
 | Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-react-components) | | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-react-components/actions) | 
 
+</br>
 
 # <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
 | Câmpus |  |  
@@ -24,6 +29,7 @@
 | Patrocínio | https://github.com/dtic-iftm/ava-patrocinio |
 | IFTM EduTemplate | https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate |
 
+</br>
 
 # ⚙️ Outros
 |||
@@ -31,6 +37,7 @@
 | Protótipo de módulo do VirtualIF em react | https://github.com/dtic-iftm/vrtl-app-modulo-prototipo |
 | API do Google Workspace | https://github.com/dtic-iftm/googleworkspace-controle-contas |
 
+</br>
 
 # 🤔 Repositórios vazios
 |||
@@ -38,14 +45,3 @@
 | dtic-iftm | https://github.com/dtic-iftm/dtic-iftm | 
 | API de acesso ao moodle | https://github.com/dtic-iftm/virtualif-api-moodle |
 | API de geração de token de autenticação| https://github.com/dtic-iftm/virtualif-api-autenticacao |
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
