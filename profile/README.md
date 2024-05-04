@@ -1,4 +1,28 @@
-## Hi there opa 👋
+## 📦 Repositórios DTIC-IFTM
+
+# 🖥️ VirtualIF
+
+| Repositório |  |  |
+| ----------- | ----------- | ----------- |
+| Autenticação | [APP](https://www.example.com) | [API](https://www.example.com) |
+| Integração com Moodle |  | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) |
+| Módulo COPESE | [APP](https://www.example.com) |
+| Biblioteca de componentes de interface | [Repo](https://www.example.com) | [Actions](https://www.example.com) |
+
+# 📖 Moodle
+| Câmpus |  |  
+| ----------- | ----------- |
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+| Uberaba | [Repo](https://www.example.com) | 
+
+# ⚙️ Outros
 
 <!--
 
