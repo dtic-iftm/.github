@@ -9,14 +9,21 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Repositório | ⚙️ | ☁️ |  |
 | ----------- | ----------- | ----------- |  ----------- |
 | Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) |  | 
-| Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | [Biblioteca](https://github.com/dtic-iftm/ava-api-library) | 
+| Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Módulo COPESE | [APP]() | | |
 | Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-react-components) | | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-react-components/actions) | 
 
 </br>
 
 # <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
-| Câmpus |  |  
+
+| APIs e Plugins |  |  
+| ----------- | ----------- |
+| Tema: IFTM EduTemplate | https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate |
+| API Integração | https://github.com/dtic-iftm/ava-integracao-virtuailf  |
+
+
+| Moodles locais |  |  
 | ----------- | ----------- |
 | Paracatu | https://github.com/dtic-iftm/ava-paracatu | 
 | Patos de Minas | https://github.com/dtic-iftm/ava-patos-minas |
