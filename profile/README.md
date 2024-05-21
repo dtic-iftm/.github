@@ -21,6 +21,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | ----------- | ----------- |
 | Tema: IFTM EduTemplate | https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate |
 | API Integração | https://github.com/dtic-iftm/ava-integracao-virtuailf  |
+| Biblioteca de funções | https://github.com/dtic-iftm/ava-api-library |
 
 
 | Moodles locais |  |  
@@ -34,7 +35,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Campina Verde | https://github.com/dtic-iftm/ava-campina-verde |
 | Ituiutaba | https://github.com/dtic-iftm/ava-ituiutaba |
 | Patrocínio | https://github.com/dtic-iftm/ava-patrocinio |
-| IFTM EduTemplate | https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate |
+
 
 </br>
 
