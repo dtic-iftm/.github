@@ -17,11 +17,12 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 
 # <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
 
-| APIs e Plugins |  |  
-| ----------- | ----------- |
-| Tema: IFTM EduTemplate | https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate |
-| API Integração | https://github.com/dtic-iftm/ava-integracao-virtuailf  |
-| Biblioteca de funções | https://github.com/dtic-iftm/ava-api-library |
+| APIs e Plugins | Tipo |  |  
+| ----------- | ----------- | ----------- |
+| IFTM EduTemplate | Tema | [theme_iftm](https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate) |
+| API Integração | API | [local_integracao_virtualif](https://github.com/dtic-iftm/ava-integracao-virtuailf)  |
+| Biblioteca de funções | Lib | [repository_api_library](https://github.com/dtic-iftm/ava-api-library) |
+| Exportar Virtual IF | Bloco | [blocks_exportar_virtualif](https://github.com/dtic-iftm/ava-block-exportar-virtualif) |
 
 
 | Moodles locais |  |  
