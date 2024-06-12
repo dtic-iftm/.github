@@ -41,7 +41,6 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 </br>
 
 # ⚙️ Outros
-|||
 | Protótipo de módulo do VirtualIF em react | https://github.com/dtic-iftm/vrtl-app-modulo-prototipo |
 | API do Google Workspace | https://github.com/dtic-iftm/googleworkspace-controle-contas |
 
