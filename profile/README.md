@@ -11,7 +11,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) |  | 
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Módulo COPESE | [APP](https://github.com/dtic-iftm/vrtl-app-modulo-copese) | | |
-| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-react-components) | | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-react-components/actions) | 
+| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions) | 
 
 </br>
 
