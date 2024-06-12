@@ -8,10 +8,10 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 # <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
 | Repositório | ⚙️ | ☁️ |  |
 | ----------- | ----------- | ----------- |  ----------- |
-| Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) |  | 
+| Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) | ⚠️ Excluir após implantação do keycloak | 
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
-| Módulo COPESE | [APP](https://github.com/dtic-iftm/vrtl-app-modulo-copese) | | |
-| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions) | 
+| Módulo COPESE | [APP](https://github.com/dtic-iftm/vrtl-app-modulo-copese) | | ⚠️ Excluir se for usar outro sistema |
+| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  |  | 
 
 </br>
 
