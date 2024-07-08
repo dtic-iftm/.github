@@ -11,6 +11,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Autenticação | [APP](https://github.com/dtic-iftm/vrtl-app-autenticacao) | [API](https://github.com/dtic-iftm/vrtl-api-autenticacao-ldap) | ⚠️ Excluir após implantação do keycloak | 
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Módulo COPESE | [APP](https://github.com/dtic-iftm/vrtl-app-modulo-copese) | | ⚠️ Excluir se for usar outro sistema |
+| Template de Módulo | [Repositório](https://github.com/dtic-iftm/vrtl-app-modulo-template) | |  |
 | Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  |  | 
 | KeyCloak | [Docker](https://github.com/dtic-iftm/srv-keycloak) |  |  | 
 
