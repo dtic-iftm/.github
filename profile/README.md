@@ -11,7 +11,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Template de Módulo | [Repo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | |  |
 | Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  |  | 
-| KeyCloak | [Docker](https://github.com/dtic-iftm/srv-keycloak) |  |  | 
+| KeyCloak | [Docker](https://github.com/dtic-iftm/srv-keycloak) | [SPI](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) |  | 
 
 </br>
 
