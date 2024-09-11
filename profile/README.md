@@ -10,7 +10,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | ----------- | ----------- | ----------- |  ----------- |
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Template de Módulo | [Repo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | |  |
-| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  |  | 
+| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
 | KeyCloak | [Docker](https://github.com/dtic-iftm/srv-keycloak) | [SPI](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) | [Conf](https://github.com/dtic-iftm/doc-auth-config-management) | 
 
 </br>
