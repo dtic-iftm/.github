@@ -8,6 +8,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 # <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
 | Repositório | ⚙️ | ☁️ |  |
 | ----------- | ----------- | ----------- |  ----------- |
+| Workflows | [Repo](https://github.com/dtic-iftm/vrtl-workflows) | |  |
 | Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
 | Template de Módulo | [Repo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | |  |
 | Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
