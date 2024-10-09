@@ -6,15 +6,16 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 </br>
 
 # <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
-| Repositório | ⚙️ | ☁️ |  |
-| ----------- | ----------- | ----------- |  ----------- |
-| Workflows | [Repo](https://github.com/dtic-iftm/vrtl-workflows) | |  |
-| Exportação Moodle » VirtualIF | | [API](https://github.com/dtic-iftm/vrtl-api-ava-exportacao) | | 
-| Template de Módulo | [Repo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | |  |
-| Biblioteca de componentes de interface | [Repo](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
-| KeyCloak | [Docker](https://github.com/dtic-iftm/srv-keycloak) | [SPI](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) | [Conf](https://github.com/dtic-iftm/doc-auth-config-management) | 
-| Módulo de Ingresso | [Repo](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm) | [Actions](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm/actions) |  | 
-| Ambiente de desenvolvimento VirtualIF PHP | [Docker](https://github.com/dtic-iftm/srv-virtualif-php) | |  | 
+| Repositório | 🔖 | ▶️ | 📑 | ⚙️ | ➕ |
+| ----------- | ----------- |  ----------- |   ----------- |   ----------- | ----------- |
+| [Workflows](https://github.com/dtic-iftm/vrtl-workflows) | Template | [Actions](https://github.com/dtic-iftm/vrtl-workflows/tree/main/.github/workflows) |
+| [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows)
+| [Template de Módulo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | Template |  |
+| [Biblioteca de componentes de interface](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | Lib | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
+| [KeyCloak](https://github.com/dtic-iftm/srv-keycloak) | Docker | | |  [Conf](https://github.com/dtic-iftm/doc-auth-config-management) | [SPI](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) |
+| [Módulo de Ingresso](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm) | APP | [Actions](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm/actions) |  | 
+| [Ambiente de desenvolvimento VirtualIF PHP](https://github.com/dtic-iftm/srv-virtualif-php) | Docker|  | 
+| [Funções base do VirtualIf](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
 
 </br>
 
