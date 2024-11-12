@@ -25,9 +25,9 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | ----------- | ----------- | ----------- |
 | IFTM EduTemplate | Tema | [theme_iftm](https://github.com/dtic-iftm/ava-theme-iftm-eduTemplate) |
 | API Integração | API | [local_integracao_virtualif](https://github.com/dtic-iftm/ava-integracao-virtuailf)  |
-| Biblioteca de funções | Lib | [repository_api_library](https://github.com/dtic-iftm/ava-api-library) ⚠️ Excluir após refatorar com instruções da RNP |
 | Exportar Virtual IF | Bloco | [blocks_exportar_virtualif](https://github.com/dtic-iftm/ava-block-exportar-virtualif) |
 | Ambiente de Desenvolvimento 4.4 | Docker | [ava-docker](https://github.com/dtic-iftm/ava-docker)|
+| Coorndeção de Idiomas | Bloco | [blocks_coordenacao_idiomas](https://github.com/dtic-iftm/ava-block-idiomas)
 
 
 | Moodles locais |  |  
