@@ -6,10 +6,10 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 </br>
 
 # <img src="https://virtualif.iftm.edu.br/VRTL/visao/img/identidade_visual/logotipo-virtualif-marca-medio.svg" width="200" alt="Virtual IF Logo" />
-| Repositório | 🔖 | ▶️ | 📑 | ⚙️ | ➕ |
-| ----------- | ----------- |  ----------- |   ----------- |   ----------- | ----------- |
+| Repositório | 🔖 | ▶️ | 📑 | ⚙️ | ➕ | |
+| ----------- | ----------- |  ----------- |   ----------- |   ----------- | ----------- | ----------- |
 | [Workflows](https://github.com/dtic-iftm/vrtl-workflows) | Template | [Actions](https://github.com/dtic-iftm/vrtl-workflows/tree/main/.github/workflows) |
-| [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows)
+| [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows) | [doc. código](https://fuzzy-adventure-4k1kjwm.pages.github.io/)
 | [Template de Módulo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | Template |  |
 | [Biblioteca de componentes de interface](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | Lib | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
 | [KeyCloak](https://github.com/dtic-iftm/srv-keycloak) | Docker | | |  [Conf](https://github.com/dtic-iftm/doc-auth-config-management) | [SPI permissões](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) <br> [SPI realm attributes](https://github.com/dtic-iftm/spi-keycloak-custom-realm-attributes) |
