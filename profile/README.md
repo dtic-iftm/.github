@@ -18,7 +18,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | [Ambiente de desenvolvimento VirtualIF PHP](https://github.com/dtic-iftm/srv-virtualif-php) | Docker|  | 
 | [Funções base do VirtualIf](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
 | [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows) | [docs código](https://fuzzy-adventure-4k1kjwm.pages.github.io/)
-| [Módulo BEEC](https://github.com/dtic-iftm/vrtl-api-beec) | API |  | 
+| [Módulo BEEC](https://github.com/dtic-iftm/vrtl-api-beec) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-beec/tree/main/.github/workflows) | 
 </br>
 
 # <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
