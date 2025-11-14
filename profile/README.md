@@ -22,6 +22,14 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | [Módulo BEEC](https://github.com/dtic-iftm/vrtl-api-beec) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-beec/tree/main/.github/workflows) | 
 </br>
 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" width="150" alt="Docker Logo">
+- [VRTL](https://github.com/dtic-iftm/vrtl-virtualif-docker)
+- [Keycloak HMG](https://github.com/dtic-iftm/srv-keycloak-hmg)
+- [Moodle](https://github.com/dtic-iftm/ava-docker)
+- [APIs Node](https://github.com/dtic-iftm/node-api-docker)
+
+</br>
+
 # <a href="https://ava.iftm.edu.br/" target="blank"><img src="https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg" width="150" alt="Moodle Logo" />
 
 | APIs e Plugins | 📑 Tipo | :link: Link |  
