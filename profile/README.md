@@ -57,8 +57,35 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 </br>
 
 # ⚙️ Outros
-| | |
-| ----------- | ----------- |
+
+| Repositório             | ⚙️                                                           |
+| ----------------------- | ------------------------------------------------------------ |
 | API do Google Workspace | https://github.com/dtic-iftm/googleworkspace-controle-contas |
 
+</br>
+
+# 🔌 Portas dos serviços
+
+Para garantir a organização e o gerenciamento adequado dos serviços em execução em cada ambiente, é fundamental manter um registro centralizado das portas utilizadas por cada aplicação. O servidor web Nginx atua como proxy reverso, direcionando as requisições para as aplicações correspondentes, enquanto o PM2 gerencia os processos Node.js em execução.
+
+Esta seção documenta as portas definidas para cada serviço nos ambientes de homologação e produção, facilitando a comunicação entre as equipes de infraestrutura e desenvolvimento. As portas devem ser configuradas no arquivo `.env` ou em `/src/main.ts` de cada aplicação, mantendo a consistência com os valores documentados aqui.
+
+Para mais detalhes sobre as configurações:
+
+- [Configuração dos endereços no Nginx](https://iftm-edu.slite.com/app/docs/WN3J3gbWsimkj1)
+- [Configuração dos serviços no PM2](https://iftm-edu.slite.com/app/docs/MLQJvC9Ri3XyuN)
+
+## APIs
+
+| Serviço                                                              | 🧪 Homologação | 🚀 Produção |
+| -------------------------------------------------------------------- | :------------: | :---------: |
+| [vrtl-api-core ](https://github.com/dtic-iftm/vrtl-api-core)         |      3001      |    3001     |
+| [vrtl-api-ava ](https://github.com/dtic-iftm/vrtl-api-ava)           |      3002      |    3002     |
+| [vrtl-api-academic ](https://github.com/dtic-iftm/vrtl-api-academic) |      3005      |    3005     |
+
+## Apps
+
+| Serviço                                        | 🧪 Homologação | 🚀 Produção |
+| ---------------------------------------------- | :------------: | :---------: |
+| [exemplo](https://github.com/dtic-iftm/sample) |     porta      |    porta    |
 
