@@ -15,6 +15,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | [KeyCloak](https://github.com/dtic-iftm/srv-keycloak) | Docker | | |  [Configs via Terraform](https://github.com/dtic-iftm/trf-keycloak-config) | [SPI permissões](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) <br> [SPI realm attributes](https://github.com/dtic-iftm/spi-keycloak-custom-realm-attributes) <br> [SPI autocomplete authenticator](https://github.com/dtic-iftm/spi-keycloak-email-autocomplete-authenticator) <br>[Temas](https://github.com/dtic-iftm/srv-keycloak-themes) <br>    |
 | [Módulo de Ingresso](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm) | APP | [Actions](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm/actions) |  | 
 | [VirtualIF PHP](https://github.com/dtic-iftm/vrtl-virtualif-php) | APP |  | 
+| [Home do VirtualIF](https://github.com/dtic-iftm/vrtl-app-home) | APP |  | 
 | [Site IFTM](https://github.com/dtic-iftm/site-iftm) | Site |  | 
 | [Ambiente de desenvolvimento VirtualIF PHP](https://github.com/dtic-iftm/srv-virtualif-php) | Docker|  | 
 | [API VRTL Core](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
