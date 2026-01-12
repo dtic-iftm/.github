@@ -9,15 +9,15 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Repositório | 🔖 | ▶️ | 📑 | ⚙️ | ➕ | 
 | ----------- | ----------- |  ----------- |   ----------- |   ----------- | ----------- | 
 | [Workflows](https://github.com/dtic-iftm/vrtl-workflows) | Template | [Actions](https://github.com/dtic-iftm/vrtl-workflows/tree/main/.github/workflows) |
-| [Template de Módulo](https://github.com/dtic-iftm/vrtl-app-modulo-template) | Template |  |
+| [Template de Módulo](https://github.com/dtic-iftm/vrtl-app-template) | Template |  |
 | [Template de API](https://github.com/dtic-iftm/vrtl-api-template) | Template |  |
-| [Biblioteca de componentes de interface](https://github.com/dtic-iftm/vrtl-lib-layout-components-react) | Lib | [Actions](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/actions)  | [docs components](http://ubiquitous-adventure-5k97pvo.pages.github.io/) <br> [docs funções](https://github.com/dtic-iftm/vrtl-lib-layout-components-react/blob/main/docs/functions/README.md) | 
+| [Biblioteca de componentes de interface](https://github.com/dtic-iftm/vrtl-lib-core) | Lib  |  |
 | [KeyCloak](https://github.com/dtic-iftm/srv-keycloak) | Docker | | |  [Configs via Terraform](https://github.com/dtic-iftm/trf-keycloak-config) | [SPI permissões](https://github.com/dtic-iftm/spi-keycloak-mapper-permissoes/tree/main) <br> [SPI realm attributes](https://github.com/dtic-iftm/spi-keycloak-custom-realm-attributes) <br> [SPI autocomplete authenticator](https://github.com/dtic-iftm/spi-keycloak-email-autocomplete-authenticator) <br>[Temas](https://github.com/dtic-iftm/srv-keycloak-themes) <br>    |
 | [Módulo de Ingresso](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm) | APP | [Actions](https://github.com/dtic-iftm/vrtl-app-ingresso-iftm/actions) |  | 
 | [VirtualIF PHP](https://github.com/dtic-iftm/vrtl-virtualif-php) | APP |  | 
 | [Site IFTM](https://github.com/dtic-iftm/site-iftm) | Site |  | 
 | [Ambiente de desenvolvimento VirtualIF PHP](https://github.com/dtic-iftm/srv-virtualif-php) | Docker|  | 
-| [Funções base do VirtualIf](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
+| [API VRTL Core](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
 | [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows) | [docs código](https://fuzzy-adventure-4k1kjwm.pages.github.io/)
 | [Módulo BEEC](https://github.com/dtic-iftm/vrtl-api-beec) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-beec/tree/main/.github/workflows) | 
 </br>
