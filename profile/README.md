@@ -40,6 +40,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | Exportar Virtual IF | Bloco | [blocks_exportar_virtualif](https://github.com/dtic-iftm/ava-block-exportar-virtualif) |
 | Ambiente de Desenvolvimento 4.4 | Docker | [ava-docker](https://github.com/dtic-iftm/ava-docker)|
 | Coordenação de Idiomas | Bloco | [blocks_coordenacao_idiomas](https://github.com/dtic-iftm/ava-block-idiomas)
+| SSO Keycloak | Local | [local_keycloaklogout](https://github.com/dtic-iftm/ava-keycloaklogout)
 | Plano de Ensino | Recurso | [mod_planoensino](https://github.com/dtic-iftm/ava-mod-planoensino)
 
 
