@@ -21,6 +21,7 @@ Repositórios de sistemas, APIs e bibliotecas de componentes e funções do IFTM
 | [API VRTL Core](https://github.com/dtic-iftm/vrtl-api-core) | API| [Actions](https://github.com/dtic-iftm/vrtl-api-core/tree/main/.github/workflows)
 | [Exportação / Importação Moodle » VirtualIF](https://github.com/dtic-iftm/vrtl-api-ava) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-ava/tree/master/.github/workflows) | [docs código](https://fuzzy-adventure-4k1kjwm.pages.github.io/)
 | [Módulo BEEC](https://github.com/dtic-iftm/vrtl-api-beec) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-beec/tree/main/.github/workflows) | 
+| [API Acadêmico]((https://github.com/dtic-iftm/vrtl-api-academic) | API | [Actions](https://github.com/dtic-iftm/vrtl-api-academic/tree/main/.github/workflows) |
 </br>
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" width="150" alt="Docker Logo">
@@ -85,6 +86,7 @@ Para mais detalhes sobre as configurações:
 | [vrtl-api-core ](https://github.com/dtic-iftm/vrtl-api-core)         |      3001      |    3001     |
 | [vrtl-api-ava ](https://github.com/dtic-iftm/vrtl-api-ava)           |      3002      |    3002     |
 | [vrtl-api-beec ](https://github.com/dtic-iftm/vrtl-api-beec)         |      3003      |    3003     |
+| [vrtl-api-pei ](https://github.com/dtic-iftm/vrtl-api-pei)           |      3004      |    3004     |
 | [vrtl-api-academic ](https://github.com/dtic-iftm/vrtl-api-academic) |      3005      |    3005     |
 
 ## Apps
