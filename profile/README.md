@@ -86,8 +86,9 @@ Para mais detalhes sobre as configurações:
 | [vrtl-api-core ](https://github.com/dtic-iftm/vrtl-api-core)         |      3001      |    3001     |
 | [vrtl-api-ava ](https://github.com/dtic-iftm/vrtl-api-ava)           |      3002      |    3002     |
 | [vrtl-api-beec ](https://github.com/dtic-iftm/vrtl-api-beec)         |      3003      |    3003     |
-| [vrtl-api-pei ](https://github.com/dtic-iftm/vrtl-api-pei)           |      3004      |    3004     |
+| [vrtl-api-form-dinamico](#)                                          |      3004      |    3004     |
 | [vrtl-api-academic ](https://github.com/dtic-iftm/vrtl-api-academic) |      3005      |    3005     |
+| [vrtl-api-pei ](https://github.com/dtic-iftm/vrtl-api-pei)           |      3006      |    3006     |
 
 ## Apps
 
